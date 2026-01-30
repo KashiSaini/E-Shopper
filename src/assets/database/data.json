@@ -1,0 +1,60 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "deepak",
+      "id": 1
+    },
+    {
+      "name": "anu",
+      "id": 2
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    }
+  ],
+  "brands": [
+    {
+      "id": 0
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 0
+    }
+  ]
+}
